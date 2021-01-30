@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px;">Hi 👋, I'm Andrés </p>
+### Hi 👋, I'm Andrés
 
 ---
 
