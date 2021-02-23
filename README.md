@@ -3,7 +3,7 @@
 ---
 
 
-I'm a Web Developer passionate about software development :computer: and keep learning new technologies 👨🏻‍💻, experiences ♟ and communities 🙋🏻‍♂️.
+I'm a FrontEnd Developer passionate about software development :computer: and keep learning new technologies 👨🏻‍💻, experiences ♟ and communities 🙋🏻‍♂️.
 
 ![Profile views](https://gpvc.arturio.dev/Esdran26)  <img src="https://img.shields.io/github/followers/Esdran26?label=Follow" style=" float:left, margin-right:10px" />
 
